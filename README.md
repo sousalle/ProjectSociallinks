@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://sousalle.github.io/ProjectSociallinks/#)
+- Live Site URL: [Add live site URL here](https://sousalle.github.io/ProjectSociallinks/)
 
 ## My process
 
